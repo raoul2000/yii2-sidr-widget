@@ -29,7 +29,7 @@ class SidrAsset extends AssetBundle
 	public function init()
 	{
 		$this->sourcePath = __DIR__.'/assets';
-		if( self::$theme != null) {
+		if ( self::$theme != null) {
 			$this->css = [
 				'stylesheets/jquery.sidr.'.self::$theme.'.css'
 			];

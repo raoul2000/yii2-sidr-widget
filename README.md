@@ -47,7 +47,11 @@ SidrAsset::$theme = SidrAsset::THEME_LIGHT;
 </header>
 
 <div id="demo-content">
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi nihil ab possimus temporibus illum ullam molestiae aliquam maiores .</p>
+	<p>
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+		 Quasi nihil ab possimus temporibus 
+		illum ullam molestiae aliquam maiores .
+	</p>
 </div>
 
 <!-- include the Sidr Widget -->
