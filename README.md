@@ -1,6 +1,6 @@
-yii2-Sidr-widget
+yii2-sidr-widget
 ==========================
-The Sidr widget is a wrapper for the [Sidr jQuery plugin](http://www.berriart.com/sidr/), 
+The **Sidr widget** is a wrapper around the [Sidr jQuery plugin](http://www.berriart.com/sidr/), 
 for creating side menus and "*the easiest way for doing your menu responsive*".
 
 Installation
